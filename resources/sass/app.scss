@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.main-content{
+    margin-top: 75px;
+}
+.ah-link{
+    color:#fff;
+    &:hover{
+        color: #fff;
+        text-decoration: none;
+    }
+}
